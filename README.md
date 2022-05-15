@@ -111,11 +111,13 @@ Thomas High School remain to be in the top 5 schools irrespective of replacing t
 Following are the observation after reading & math scores for the ninth grade at Thomas High School have been replaced to NaNs.
 
 There has been (small) impact on the Overall district summary which is marginal 
-		- Average Math score is reduced by 0.1%
-		- %Passing math is reduced by 0.2%
-		- % Reading is reduced by 0.3%
-		-  %Overall Passing is reduced by 0.1% 
+1.  Average Math score is reduced by 0.1% 
+2.  %Passing math is reduced by 0.2% 
+3.  % Reading is reduced by 0.3%
+4.  %Overall Passing is reduced by 0.1% 
+	
 During analysis after replacing the 9th Graders of Thomas High School with NaNs we calculate the % Passing Math & Reading , here we considered total students of THS(9th to 12th)
+
 Where as we have to consider only (10th-12th graders) so the total number of students also drops and then the overall calculations is made, which significantly increases the %performance of THS.
 
 
